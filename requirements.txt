@@ -1,0 +1,9 @@
+transformers  # Hugging Face Transformers library for Qwen2-VL model
+torch         # PyTorch for model inference
+byaldi
+torchvision
+gradio      # Gradio for web UI deployment
+qwen_vl_utils         # Utility package for Qwen-VL models (custom, may need local installation)
+Pillow       # For image processing
+numpy        # NumPy for numerical operations
+spaces        # Hugging Face Spaces integration for deployment
