@@ -31,4 +31,4 @@ cd ocr-using-qwen2-vl
 
 ## Deployment
 
-Huggingface Space: [ink](https://huggingface.co/spaces/DeF0017/OCR-using-Qwen2-VL)
+Huggingface Space: [Link](https://huggingface.co/spaces/DeF0017/OCR-using-Qwen2-VL)
